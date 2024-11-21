@@ -1,2 +1,2 @@
-# AWS-VPC-PROJECT
-A project to create an AWS VPC with EC2 in a public subnet and RDS in a private subnet.
+# AWS-VPC-Architecture
+Designed an AWS VPC with public and private subnets to host an EC2 instance and RDS database.
